@@ -1,0 +1,13 @@
+# wrangler.toml (模板版本)
+
+# 部署时，用户可以自定义新的项目名称
+name = "lost-and-found-worker"
+main = "src/index.js"
+compatibility_date = "2025-07-19" # 建议使用一个较新的日期
+
+# 定义D1数据库绑定。
+# 部署流程会自动提示用户创建或选择一个名为 "lost-and-found-db" 的数据库。
+# 这里我们只定义了绑定名称(DB)，没有提供id。
+[[d1_databases]]
+binding = "DB"                # 代码中使用的变量名 (env.DB)
+database_name = "lost-and-found-db"  # 推荐给用户的数据库名

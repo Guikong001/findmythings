@@ -1,8 +1,6 @@
 # 个人失物招领联系页面 (Lost & Found Contact Page)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?repo=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
-
-**请将上方链接中的 `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` 替换为您自己的 GitHub 仓库地址！**
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?repo=https://github.com/Guikong001/findmythings/)
 
 ---
 

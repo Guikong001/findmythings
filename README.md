@@ -9,7 +9,6 @@ Tired of writing your phone number or email directly on your belongings? This pr
 您是否还在为直接将手机号、邮箱写在个人物品上而感到不安？本项目利用 Cloudflare Workers 和 D1 数据库，提供了一个安全、动态且注重隐私的失物招领联系页面解决方案。
 
 ![项目截图](https://tc.wslll.cn/15383691-38c9-42e2-8112-3ccd052d409d.png)  
-*(您可以将项目运行起来后，替换成您自己的截图)*
 
 ## ✨ 功能特性 (Features)
 
